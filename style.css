@@ -20,6 +20,10 @@ main{
     max-width: 964px;
     margin: 0 auto;
     padding: 0 10px;
+    font-family: "Bebas Neue", sans-serif;
+}
+.text{
+    font-family: "Bebas Neue", sans-serif;
 }
 .list{
     list-style: none;
@@ -51,4 +55,7 @@ main{
 }
 .lang{
     writing-mode: vertical-rl;
+}
+.about__section{
+    margin-bottom: 104px;
 }
